@@ -21,7 +21,7 @@ h1{
 /*background*/ 
 
 .morning{	
-	background-image: url(images/morning.png); 
+	background-image: url(../images/morning.png); 
 	background-repeat: no-repeat;
   	background-size: 315%;
   	background-position: center;
@@ -31,7 +31,7 @@ h1{
 }
 
 .afternoon{
-	background-image: url(images/afternoon.png); 	
+	background-image: url(../images/afternoon.png); 	
 	background-repeat: no-repeat;
   	background-size: 315%;
   	background-position: center;
@@ -42,14 +42,14 @@ h1{
 }
 
 .evening{	
-	background-image: url(images/evening.png); 
+	background-image: url(../images/evening.png); 
 	background-repeat: no-repeat;
   	background-size: 315%;
   	background-position: center;
 }
 
 .night{	
-	background-image: url(images/night.png); 
+	background-image: url(../images/night.png); 
 	background-repeat: no-repeat;
   	background-size: 315%;
   	background-position: center;

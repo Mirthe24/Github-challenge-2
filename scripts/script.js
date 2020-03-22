@@ -25,7 +25,6 @@ var today = new Date();
  
  var background = document.getElementById('bg');
 
-h = 23
 switch(true) {
 case (h > 21):
     background.classList.add('night');
