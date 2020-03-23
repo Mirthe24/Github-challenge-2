@@ -1,2 +1,1 @@
-# Github-challenge-2
- 
+Voor deze challenge, heb ik een aardse landschap ontworpen met behulp van illustrator. Hiervan heb ik de kleuren verandert, zodat de illustratie een bepaald dagdeel laat zien. Ik heb een ochtend, middag, avond en nacht versie die matchen met de tijd.
