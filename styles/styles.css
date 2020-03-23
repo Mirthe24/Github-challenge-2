@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400&display=swap');
+/*algemeen*/
+
 body{
 	margin: 0px;
 }
@@ -58,6 +60,9 @@ h1{
 .night h1 {
 	color: black;
 }
+
+
+/* zorgt ervoor dat animatie niet werkt met een mobiel.. animatie wordt erg druk op een klein scherm */
 #ani{
 	display: none;
 }
@@ -81,13 +86,13 @@ h1{
 
 @media only screen and (min-width: 800px){
 		.morning{
-		background-size: 210%;
+		background-size: 170%;
 	}
 	.afternoon{
-		background-size: 210%;
+		background-size: 170%;
 	}
 	.evening{
-		background-size: 210%;
+		background-size: 170%;
 	}
 	.night{
 		background-size: 170%;
